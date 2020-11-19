@@ -1,0 +1,95 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+$base-font-family: 'Fira Sans', Helvetica, Arial, sans-serif;
+$base-font-size:   1em;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #23363a;
+$background-color:  #ffffff;
+$brand-color: #e9812d;
+$brand-color-dark: #e66d3b;
+$brand-color-old:      #11827f;
+
+
+$blue-color-dark: #24373b;
+$blue-color-light: #075253;
+$blue-color-bright: #11827f;
+
+$grey-color:       #23363a;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$code-bg-color: #fafafa;
+$code-border-color: #3b454a;
+
+$grey-color-bleh:       #A29384;
+$grey-color-light-bleh: #d5c6b7;
+$grey-color-dark-bleh:  #6F6051;
+
+$accent-primary: #ae6617;
+$accent-bright: #e66d3b;
+
+
+$header-text: #fafafa;
+
+
+$blar: #24373b;
+
+$bleh: #075253;
+$blep: #fafafa;
+
+$bloop: #11827f;
+
+$blarp: #ae6617;
+
+$bleep: #e66d3b;
+
+$textbleh: #23363a;
+
+
+
+$orig-text-color: #111;
+$orig-background-color: #fdfdfd;
+$orig-brand-color:      #0077CC;
+
+
+$orig-blue-color-dark: darken(#3E7AD1, 10%);
+$orig-blue-color-light: #4B93DB;
+
+$orig-grey-color:       #828282;
+$orig-grey-color-light: lighten($grey-color, 40%);
+$orig-grey-color-dark:  darken($grey-color, 25%);
+
+
+
+
+
+
+// Width of the content area
+$content-width:    950px;
+
+$on-palm:          600px;
+$on-laptop:        950px;
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+    "header",
+	"mobile-header",
+    "base",
+    "layout",
+    "syntax-highlighting",
+	"image"
+;

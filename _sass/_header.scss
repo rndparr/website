@@ -1,0 +1,259 @@
+/**
+ * Site header
+ */
+.site-header {
+    border-top: 0px solid $grey-color-dark;
+    min-height: 56px;
+    border-bottom: 4px solid $accent-primary;
+    // background-image: linear-gradient($blue-color-light, $blue-color-dark);
+    background-image: linear-gradient($blue-color-light 0%, $blue-color-dark 99%);
+    // background: $blue-color-light;
+    // box-shadow: 0px 5px 10px $blue-color-dark;
+    // Positioning context for the mobile navigation icon
+    position: relative;
+}
+
+.site-title {
+    font-size: 26px;
+/* 		margin-top: 15px;
+    line-height: 40px; */
+    // letter-spacing: -1px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+    font-weight: 500;
+		font-family: 'Fira Sans', sans-serif;
+    color: $header-text;
+    &,
+    &:visited {
+        color: #ffffff;
+    }
+    &,
+    &:hover {
+        color: #ffffff;
+	   text-decoration: none;
+    }
+}
+
+.site-header .wrapper {
+	padding-top: 15px;
+    padding-bottom: 3px;
+	position: relative;
+}
+
+.site-nav ul li a {
+	color: #fff;
+}
+
+.site-nav ul {
+
+	text-align: right;
+	float: right;
+	// padding-top: 9px;
+	font-size: 85%;
+	letter-spacing: 1px;
+	line-height: 1em;
+	font-weight: 600;
+	margin: 0;
+	// padding: 0;
+	list-style-type: none;
+	text-transform: uppercase;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+// menu items
+.site-nav .menu > li {
+	// border-bottom: 3px solid transparent;
+	display: inline-block;
+	height: 23px;
+	line-height: normal;
+	margin: 12px 10px 0 10px;
+    // padding: 5px;
+	position: relative;
+    vertical-align: top;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.site-nav a {
+	display: block;
+    color: #ffffff;
+    &:hover {
+        // text-decoration: underline;
+    }
+}
+
+/* Sub Menu */
+
+.site-nav .sub-menu a {
+	display: block;
+	font-weight: normal;
+	height: auto;
+	letter-spacing: 0;
+	line-height: 1.2em;
+	// padding: 5px 10px;
+    margin: 5px 10px;
+    color: $blue-color-dark;
+}
+
+.site-nav .sub-menu a:hover {
+	color: $blue-color-light;
+}
+
+.site-nav  .sub-menu {
+	// background: #ffffff;
+    // padding-top: 12px;
+    // border-top: 4px solid $accent-primary;
+    // border-right: 0px;
+    // border-left: 0px;
+    // border-bottom: 0px;
+    // border-color: $accent-primary;
+	// min-width: 265px;
+
+	z-index:2147483647;
+}
+
+.site-nav .sub-menu li.current-menu-item > a {
+    // changes
+	// border-left-color: $blue-color-light;
+	// border-right-color: $blue-color-light;
+ //    // 
+	// border-right: 0px;
+    // border-top: 0;
+
+}
+
+
+.sub-menu {
+	// border: 3px solid $blue-color-dark;
+    // border-top: 20px solid transparent;
+    // border-top: 8px solid transparent;
+    // border-right: 3px solid white;
+    // border-left: 3px solid white;
+    // border-bottom: 10px solid white;
+     // border-top: 33px solid transparent;
+    // border-top: 0;
+	/* bg and border colors set in header */
+	box-shadow: 0 2px 2px rgba(0,0,0,0.4);
+	-moz-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
+	-webkit-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
+	display: none;
+	right: -25%;
+	// padding: 5px 0 3px 0;
+    // padding: 5px 0 3px 0;
+    padding: 17px 0 3px 0;
+	position: absolute;
+	text-align: left;
+	text-transform: none;
+	// top: 32px;
+    // top: 15px;
+    // top: 28px;
+	// min-width: 265px;
+    // z-index:2147483647;
+    // z-index:999;
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+
+}
+
+.sub-menu li {
+	// border-bottom: 0;
+	display: block;
+	height: auto;
+	// margin: 3px 0;
+    // need following for bottom of sub menu to not have weird transparency
+	padding: 3px;
+    text-align: left;
+    background: #ffffff;
+}
+
+.site-nav li:hover > .sub-menu {
+	display: block;
+}
+
+
+
+.site-nav h1 {
+	position: absolute;
+	left: -999em;
+}
+
+
+.site-nav {
+    float: right;
+    line-height: 40px;
+
+
+    .menu-icon {
+        display: none;
+    }
+
+    .page-link {
+        color: #ffffff;
+        line-height: $base-line-height;
+
+        // Gaps between nav items, but not on the first one
+        &:not(:first-child) {
+            margin-left: 20px;
+        }
+    }
+
+
+
+    @include media-query($on-palm) {
+        position: absolute;
+        top: 9px;
+        right: 10px;
+        background-color: $background-color;
+        border: 1px solid $grey-color-light;
+        border-radius: 5px;
+        text-align: right;
+
+        .menu-icon {
+            display: block;
+            float: right;
+            width: 36px;
+            height: 26px;
+            line-height: 0;
+            padding-top: 10px;
+            text-align: center;
+
+            > svg {
+                width: 18px;
+                height: 15px;
+
+                path {
+                    // fill: $grey-color-dark;
+                    // fill: $accent-primary;
+                    fill: $blue-color-dark;
+                }
+            }
+        }
+
+        .trigger {
+            clear: both;
+            display: none;
+        }
+
+        &:hover .trigger {
+            display: block;
+            padding-bottom: 0px;
+            // padding: 1px 1px 1px 10px;
+        }
+
+        .page-link {
+            display: block;
+            // padding: 3px 10px;
+            padding: 3px 3px 3px 10px;
+            // padding: 1px 1px 1px 10px;
+            // top right bottom left
+        }
+        .sub-menu {
+            // display: block;
+            padding: 1px 0 3px 0;
+        }
+
+    }
+}
+
+
