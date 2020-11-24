@@ -16,8 +16,8 @@ title: Research
 	<li>
 		<b><target><a id="ModelingqPCRCurves" rel="noreferrer noopener">Modeling qPCR Curves</a></target></b><br>
 		Dr. Gary Cobbs | BIOL404 & BIOL405 | <i>University of Louisville</i> | August 2018–May 2019<br>
-<a href="website/docs/ModqPCR_F18.pdf"><div class="color-button">2018 report</div></a>
-<a href="website/docs/ModqPCR_S19.pdf"><div class="color-button">2019 report</div></a>
+<a href="https://rndparr.github.io/website/docs/ModqPCR_F18.pdf"><div class="color-button">2018 report</div></a>
+<a href="https://rndparr.github.io/website/docs/ModqPCR_S19.pdf"><div class="color-button">2019 report</div></a>
 	</li><br>
 	<li>
 		<b>Mycobacteriophage Sub-Cluster Distribution & Correlations</b><br>
