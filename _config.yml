@@ -4,15 +4,14 @@ general_email: rndparr@gmail.com
 academic_email: randy.parrish@emory.edu
 
 description: > # this means to ignore newlines until "baseurl:"
-  Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
-
-# baseurl: "/website" # the subpath of your site, e.g. /blog/
-
-baseurl: "" # the subpath of your site, e.g. /blog/
+  Biostatistics MSPH student and research assistant at Emory University.
 
 
-url: "/Users/randyparr/github/website"
-# url: "https://rndparr.github.io" # the base hostname & protocol for your site
+
+# baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "/Users/randyparr/github/website"
+baseurl: "/website" # the subpath of your site, e.g. /blog/
+url: "https://rndparr.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
 github_username: rndparr
