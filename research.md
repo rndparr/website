@@ -26,7 +26,7 @@ title: Research
 	<li>
 		<b>Mycobacteriophage Isolation & Genome Annotation</b><br>
 		Dr. Rodney King & Dr. Claire Rinehart | <i>WKU & <a href="https://seaphages.org/institution/WEKU/">SEA-PHAGES</a></i> | August 2011–May 2012<br>
-		<a href=""><div class="color-button">slides</div></a><a href="https://phagesdb.org/phages/Pseudonym/"><div class="color-button">phage</div></a>
+		<a href="https://rndparr.github.io/website/docs/Pseudonym.pdf"><div class="color-button">slides</div></a><a href="https://phagesdb.org/phages/Pseudonym/"><div class="color-button">phage</div></a>
 	</li><br>
 	{% include image.html url="/images/qPCR_img.png" caption="" width=250 align="right" description="image of plots cropped from Fall 2018 report for Modeling qPCR curves" %}
 </ul>
