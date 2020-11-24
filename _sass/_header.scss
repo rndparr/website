@@ -50,7 +50,7 @@
 	text-align: right;
 	float: right;
 	// padding-top: 9px;
-	font-size: 85%;
+	font-size: 95%;
 	letter-spacing: 1px;
 	line-height: 1em;
 	font-weight: 600;
@@ -58,7 +58,8 @@
 	// padding: 0;
 	list-style-type: none;
 	text-transform: uppercase;
-    font-family: 'Titillium Web', sans-serif;
+    // font-family: 'Titillium Web', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 
 // menu items
@@ -80,7 +81,7 @@
 	display: block;
     color: #ffffff;
     &:hover {
-        // text-decoration: underline;
+        text-decoration: underline;
     }
 }
 

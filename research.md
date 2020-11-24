@@ -7,6 +7,7 @@ title: Research
 
 <h2>Projects</h2>
 <ul>
+	{% include image.html url="/images/tigar_img.png" caption="" width=250 align="right" description="cropped image from a slide containing python code with header processing genotype data vcf. " %}
 	<li>
 		<b>Transcriptome-Integrated Genetic Association Resource (TIGAR)</b><br>
 		 Dr. Jingjing Yang | <i>Emory University</i> | February 2020–Present <br>
@@ -22,12 +23,12 @@ title: Research
 		<b>Mycobacteriophage Sub-Cluster Distribution & Correlations</b><br>
 		 Dr. Claire Rinehart | <i>Western Kentucky University (WKU)</i> | August 2012–May 2013 <br>
 	</li><br>
-	{% include image.html url="/images/phage_crop.jpg" caption="phage under electron microscope" width=250 align="right" description="phage under electron microscope" %}
 	<li>
 		<b>Mycobacteriophage Isolation & Genome Annotation</b><br>
 		Dr. Rodney King & Dr. Claire Rinehart | <i>WKU & <a href="https://seaphages.org/institution/WEKU/">SEA-PHAGES</a></i> | August 2011–May 2012<br>
 		<a href=""><div class="color-button">slides</div></a><a href="https://phagesdb.org/phages/Pseudonym/"><div class="color-button">phage</div></a>
 	</li><br>
+	{% include image.html url="/images/qPCR_img.png" caption="" width=250 align="right" description="image of plots cropped from Fall 2018 report for Modeling qPCR curves" %}
 </ul>
 
 <h2>Outcomes</h2>
@@ -45,6 +46,7 @@ title: Research
 		2017<br>
 		<a href="http://www.ncbi.nlm.nih.gov/nuccore/KY471266.1."><div class="color-button">GenBank</div></a>
 	</li><br>
+	{% include image.html url="/images/phage_crop.jpg" caption="" width=250 align="right" description="phage under electron microscope" %}
 </ul>
 
 

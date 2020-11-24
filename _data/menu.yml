@@ -1,14 +1,8 @@
-- title: "About"
-  href: "/about/"
+# - title: "About"
+#   href: "/about/"
 
 - title: "Research"
   href: "/research/"
-
-# - title: "Projects"
-#   href: "/projects/"
-
-# - title: "Blog"
-#   href: "/blog/"
 
 - title: "CV"
   href: "/cv/"
@@ -20,7 +14,4 @@
       subhref: "/miscellany/courses/"
     - subtitle: "Artwork"
       subhref: "/miscellany/artwork/"
-    # - subtitle: "Extracurriculars"
-    #   subhref: "/miscellany/extracurricular/"
-    # - subtitle: "Travel"
-    #   subhref: "/miscellany/travel/"
+
