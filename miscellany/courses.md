@@ -13,27 +13,30 @@ permalink: /miscellany/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS509.pdf">BIOS509</a>: Applied Linear Models
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS513.pdf">BIOS513</a>: Statistical Inference I
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS524.pdf">BIOS524</a>: Analytic Methods for Infectious Disease
-<b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS522.pdf">BIOS522</a>: Survival Analysis Method* 
-<b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS526.pdf">BIOS526</a>: Modern Regression Analysis*
-<b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS580.pdf">BIOS580</a>: Statistical Practice I*
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS522.pdf">BIOS522</a>: Survival Analysis Method
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS526.pdf">BIOS526</a>: Modern Regression Analysis
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS560R.pdf">BIOS560R</a>: Applied Bayesian Analysis
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS580.pdf">BIOS580</a>: Statistical Practice I
 
 
 
 <h3>Computer Science, Informatics, & Programming</h3>
 <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS531.pdf">BIOS531</a>: SAS Programming
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BIOS545.pdf">BIOS545</a>: R Programming
-<b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-CS534.pdf">CS534</a>: Machine Learning*
-<b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-INFO550.pdf">INFO550</a>: Data Science Toolkit*
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-CS534.pdf">CS534</a>: Machine Learning
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-INFO550.pdf">INFO550</a>: Data Science Toolkit
 
 
 <h3>Public Health</h3>
+<a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BSHES500.pdf">BSHES500</a>: Behavioral and Social Sciences in Public Health
 <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-EH500.pdf">EH500</a>: Perspectives in Environmental Health
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-EPI530.pdf">EPI530</a>: Epidemiologic Methods I
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-GH500.pdf">GH500</a>: Critical Issues in Global Health
+<a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-HPM500.pdf">HPM500</a>: Introduction to the US Health Care System
 
-<div align= "right">
+<!-- <div align= "right">
 	*<i>pursuing currently</i>
-</div>
+</div> -->
 <hr>
 
 <h2>University of Louisville</h2>
