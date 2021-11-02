@@ -33,7 +33,7 @@ title: Research
 
 <h2>Outcomes</h2>
 <ul>
-	<li><br>
+	<li>
 		<b>TIGAR-V2: Efficient TWAS Tool with Nonparametric Bayesian eQTL Weights of 49 Tissue Types from GTEx V8</b><br>
 		<i><b>Parrish, R.</b>,  Gibson, G., Epstein, M. P., Yang, J.</i><br>
 		<i>HGG Advances</i> | November 2021<br>

@@ -29,10 +29,10 @@ permalink: /miscellany/courses/
 
 <h3>Public Health</h3>
 <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-BSHES500.pdf">BSHES500</a>: Behavioral and Social Sciences in Public Health
-<a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-EH500.pdf">EH500</a>: Perspectives in Environmental Health
+<b>&nbsp;&middot;&nbsp;</b><a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-EH500.pdf">EH500</a>: Perspectives in Environmental Health
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-EPI530.pdf">EPI530</a>: Epidemiologic Methods I
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-GH500.pdf">GH500</a>: Critical Issues in Global Health
-<a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-HPM500.pdf">HPM500</a>: Introduction to the US Health Care System
+<b>&nbsp;&middot;&nbsp;</b><a href="https://rndparr.github.io/website/docs/Syllabi/Emory/Syllabus-HPM500.pdf">HPM500</a>: Introduction to the US Health Care System
 
 <!-- <div align= "right">
 	*<i>pursuing currently</i>
