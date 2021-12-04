@@ -43,11 +43,12 @@
 
 .site-nav ul li a {
 	color: #fff;
+    padding: 0 10px 0 10px;
 }
 
 .site-nav ul {
 
-	text-align: right;
+	// text-align: center;
 	float: right;
 	// padding-top: 9px;
 	font-size: 95%;
@@ -68,7 +69,9 @@
 	display: inline-block;
 	height: 23px;
 	line-height: normal;
-	margin: 12px 10px 0 10px;
+	// margin: 12px 10px 0 10px;
+    margin: 12px 0 0 0;
+    // padding: 0 10px 0 10px;
     // padding: 5px;
 	position: relative;
     vertical-align: top;
@@ -94,7 +97,9 @@
 	letter-spacing: 0;
 	line-height: 1.2em;
 	// padding: 5px 10px;
-    margin: 5px 10px;
+    // margin: 5px 10px;
+    margin-bottom: 2px;
+    margin-top: 2px;
     color: $blue-color-dark;
 }
 
@@ -102,13 +107,14 @@
 	color: $blue-color-light;
 }
 
-.site-nav  .sub-menu {
+.site-nav .sub-menu {
 	// background: #ffffff;
     // padding-top: 12px;
     // border-top: 4px solid $accent-primary;
     // border-right: 0px;
     // border-left: 0px;
     // border-bottom: 0px;
+    // border-bottom: 5px solid #ffffff;
     // border-color: $accent-primary;
 	// min-width: 265px;
 
@@ -133,17 +139,19 @@
     // border-right: 3px solid white;
     // border-left: 3px solid white;
     // border-bottom: 10px solid white;
-     // border-top: 33px solid transparent;
+    // border-top: 33px solid transparent;
     // border-top: 0;
+    border-bottom: 3px solid white;
 	/* bg and border colors set in header */
 	box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	-moz-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	-webkit-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	display: none;
-	right: -25%;
+	// right: -25%;
 	// padding: 5px 0 3px 0;
     // padding: 5px 0 3px 0;
-    padding: 17px 0 3px 0;
+    // padding: 17px 0 3px 0;
+    padding: 19px 0 0 0;
 	position: absolute;
 	text-align: left;
 	text-transform: none;
@@ -164,9 +172,12 @@
 	// margin: 3px 0;
     // need following for bottom of sub menu to not have weird transparency
 	padding: 3px;
+    padding-bottom: 5px;
     text-align: left;
     background: #ffffff;
 }
+
+
 
 .site-nav li:hover > .sub-menu {
 	display: block;

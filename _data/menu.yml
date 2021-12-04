@@ -7,6 +7,12 @@
 - title: "CV"
   href: "/cv/"
 
+- title: "Tutorials"
+  href: "/tutorials/"
+  subcategories:
+    - subtitle: "Installing TIGAR on HGCC"
+      subhref: "/tutorials/installing_tigar_hgcc/"
+
 - title: "Miscellany"
   href: "/miscellany/"
   subcategories:
