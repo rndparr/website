@@ -11,7 +11,7 @@
   href: "/tutorials/"
   subcategories:
     - subtitle: "Installing TIGAR on HGCC"
-      subhref: "/tutorials/installing_tigar_hgcc/"
+      subhref: "/tutorials/installing_tigar_on_hgcc/"
 
 - title: "Miscellany"
   href: "/miscellany/"
