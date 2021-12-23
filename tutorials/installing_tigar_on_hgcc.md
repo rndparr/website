@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /tutorials/installing_tigar_on_hgcc
+permalink: /tutorials/installing_tigar_on_hgcc/
 title: Installing TIGAR on HGCC
 ---
 
