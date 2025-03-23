@@ -16,8 +16,6 @@
 - title: "Miscellany"
   href: "/miscellany/"
   subcategories:
-    - subtitle: "Coursework"
-      subhref: "/miscellany/courses/"
     - subtitle: "Artwork"
       subhref: "/miscellany/artwork/"
 

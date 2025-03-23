@@ -9,6 +9,11 @@ title: Research
 <ul>
 	{% include image.html url="/images/tigar_img.png" caption="" width=250 align="right" description="cropped image from a slide containing python code with header processing genotype data vcf. " %}
 	<li>
+		<b>Stacked Regression-Transcriptome-Wide Association Study (SR-TWAS)</b><br>
+		 Dr. Jingjing Yang | <i>Emory University</i> | January 2021–Present <br>
+		<a href="https://github.com/yanglab-emory/SR-TWAS"><div class="color-button">SR-TWAS</div></a>
+	</li><br>
+	<li>
 		<b>Transcriptome-Integrated Genetic Association Resource (TIGAR)</b><br>
 		 Dr. Jingjing Yang | <i>Emory University</i> | February 2020–Present <br>
 		<a href="https://github.com/yanglab-emory/TIGAR"><div class="color-button">TIGAR</div></a>
@@ -34,24 +39,25 @@ title: Research
 <h2>Outcomes</h2>
 <ul>
 	<li>
+		<b>SR-TWAS: leveraging multiple reference panels to improve transcriptome-wide association study power by ensemble machine learning</b><br>
+		<i><b>Parrish, R.</b>, Buchman, A.S., Tasaki, S., Wang, Y., Avey, D., Xu, J., De Jager, P.L., Bennett, D.A., Epstein, M.P., Yang, J.</i><br>
+		<i>Nature Communications</i> <b>15</b>, 6646 | August 2024<br>
+		<a href="https://doi.org/10.1038/s41467-024-50983-w"><div class="color-button">Article</div></a>
+	</li><br>	
+	<li>
 		<b>TIGAR-V2: Efficient TWAS Tool with Nonparametric Bayesian eQTL Weights of 49 Tissue Types from GTEx V8</b><br>
-		<i><b>Parrish, R.</b>,  Gibson, G., Epstein, M. P., Yang, J.</i><br>
+		<i><b>Parrish, R.</b>,  Gibson, G., Epstein, M.P., Yang, J.</i><br>
 		<i>HGG Advances</i> | November 2021<br>
-		<a href="https://www.biorxiv.org/content/10.1101/2021.07.16.452700v2"><div class="color-button">Preprint</div></a>
+		<a href="https://doi.org/10.1016/j.xhgg.2021.100068"><div class="color-button">Article</div></a>
 	</li><br>
 	<li>
 		<b>TIGAR-V2: Efficient TWAS Tool with Nonparametric Bayesian eQTL Weights of 49 Tissue Types from GTEx V8</b><br>
-		<i>Yang, J., <b>Parrish, R.</b>,  Gibson, G., Epstein, M. P.</i><br>
+		<i>Yang, J., <b>Parrish, R.</b>,  Gibson, G., Epstein, M.P.</i><br>
 		Poster | ASHG Virtual Meeting 2021 | October 2021<br>
 	</li><br>	
 	<li>
-		<b>Powerful variance-component method for TWAS identifies novel and known risk genes for Alzheimer’s dementia.</b><br>
-		<i>Tang, S., <b>Parrish, R.</b>, Buchman, A. S., De Jager, P. L., Bennett, D. A., Epstein, M. P., Yang, J.</i><br>
-		Poster | ASHG Virtual Meeting 2020 | October 2020<br>
-	</li><br>	
-	<li>
 		<b>Mycobacterium phage TinaFeyge, complete genome</b><br>
-		<i>Staples, A. K., King, R. A., Doughty, M. A., <b>Parrish, M. L.</b>, Klann, J. K., Rinehart, C. A., ... Hatfull, G. F.</i><br>
+		<i>Staples, A.K., King, R.A., Doughty, M.A., <b>Parrish, M.L.</b>, Klann, J.K., Rinehart, C.A., ... Hatfull, G.F.</i><br>
 		2017<br>
 		GenBank Direct Submission | Accession: KY471266.1<br>
 		<a href="http://www.ncbi.nlm.nih.gov/nuccore/KY471266.1."><div class="color-button">GenBank</div></a>
@@ -64,13 +70,18 @@ title: Research
 <ul>
 	<li>
 		<b>SR-TWAS: Leveraging multiple reference panels to improve TWAS</b><br>
-		<i><b>Parrish, M. L.</b></i><br>
+		<i><b>Parrish, M.L.</b></i><br>
 		Platform Presentation | ASHG 2021 Virtual Meeting | October 2021 <br>
 		<a href="https://www.ashg.org/meetings/2021meeting/"><div class="color-button">ASHG 2021</div></a>
 	</li><br>
 	<li>
+		<b>Powerful variance-component method for TWAS identifies novel and known risk genes for Alzheimer’s dementia.</b><br>
+		<i>Tang, S., <b>Parrish, R.</b>, Buchman, A.S., De Jager, P.L., Bennett, D.A., Epstein, M.P., Yang, J.</i><br>
+		Poster | ASHG Virtual Meeting 2020 | October 2020<br>
+	</li><br>		
+	<li>
 		<b>Correlation of geographical distribution of mycobacteriophages with genomic clusters and genome distance</b><br>
-		<i><b>Parrish, M. L.</b>, Rinehart, C. A.</i><br>
+		<i><b>Parrish, M.L.</b>, Rinehart, C. A.</i><br>
 		Poster | 12th Annual UT-ORNL-KBRIN Bioinformatics Summit 2013 | Buchanan, TN | October 23, 2013<br>
 		<a href="https://doi.org/10.1186/1471-2105-14-S17-A8"><div class="color-button">abstract</div></a>
 	</li><br>
